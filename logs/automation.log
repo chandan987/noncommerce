@@ -1,0 +1,297 @@
+2023-04-02 12:05:29,742:INFO:**********************Test_001_login****************
+2023-04-02 12:05:29,744:INFO:**********************test_homepageTitle****************
+2023-04-02 12:05:34,625:INFO:**********************test_homepageTitle PASS****************
+2023-04-02 12:05:36,023:INFO:**********************verify test login****************
+2023-04-02 12:05:44,227:INFO:**********************login PAge PASS****************
+2023-04-02 13:39:15,193:INFO:**********************Test_001_login****************
+2023-04-02 13:39:15,194:INFO:**********************test_homepageTitle****************
+2023-04-02 13:39:15,301:INFO:**********************verify test login****************
+2023-04-02 13:39:19,249:INFO:**********************test_homepageTitle PASS****************
+2023-04-02 13:42:21,286:INFO:**********************verify test login****************
+2023-04-02 13:42:21,289:INFO:**********************Test_001_login****************
+2023-04-02 13:42:21,290:INFO:**********************test_homepageTitle****************
+2023-04-02 13:42:25,484:INFO:**********************test_homepageTitle PASS****************
+2023-04-02 13:42:33,121:INFO:**********************login PAge PASS****************
+2023-04-02 13:43:27,733:INFO:**********************verify test login****************
+2023-04-02 13:43:28,687:INFO:**********************Test_001_login****************
+2023-04-02 13:43:28,687:INFO:**********************test_homepageTitle****************
+2023-04-02 13:43:32,929:INFO:**********************test_homepageTitle PASS****************
+2023-04-02 13:43:42,829:INFO:**********************login PAge PASS****************
+2023-04-02 14:32:42,847:INFO:**********************Test_001_login****************
+2023-04-02 14:32:42,848:INFO:**********************test_homepageTitle****************
+2023-04-02 14:32:48,813:INFO:**********************test_homepageTitle PASS****************
+2023-04-02 14:32:49,986:INFO:**********************verify test login****************
+2023-04-02 14:32:55,135:INFO:**********************login PAge PASS****************
+2023-04-02 15:05:51,805:INFO:**********************Test_001_login****************
+2023-04-02 15:05:51,806:INFO:**********************test_homepageTitle****************
+2023-04-02 15:05:55,523:INFO:**********************test_homepageTitle PASS****************
+2023-04-02 15:05:56,704:INFO:**********************verify test login****************
+2023-04-02 15:06:07,976:INFO:**********************login PAge PASS****************
+2023-04-02 15:29:23,537:INFO:************TEST_002_Login_DDT************
+2023-04-02 15:29:23,537:INFO:*****Verifying Login using DDT*****
+2023-04-02 15:33:10,777:INFO:************TEST_002_Login_DDT************
+2023-04-02 15:33:10,778:INFO:*****Verifying Login using DDT*****
+2023-04-02 15:33:18,903:INFO:*****Passed*****
+2023-04-02 15:33:24,827:INFO:*****Passed*****
+2023-04-02 15:35:20,325:INFO:************TEST_002_Login_DDT************
+2023-04-02 15:35:20,325:INFO:*****Verifying Login using DDT*****
+2023-04-02 15:35:59,004:INFO:************TEST_002_Login_DDT************
+2023-04-02 15:35:59,004:INFO:*****Verifying Login using DDT*****
+2023-04-02 15:38:04,038:INFO:************TEST_002_Login_DDT************
+2023-04-02 15:38:04,038:INFO:*****Verifying Login using DDT*****
+2023-04-02 15:40:39,067:INFO:************TEST_002_Login_DDT************
+2023-04-02 15:40:39,067:INFO:*****Verifying Login using DDT*****
+2023-04-02 15:40:45,705:INFO:*****Passed*****
+2023-04-02 15:40:51,761:INFO:*****Passed*****
+2023-04-02 15:45:27,385:INFO:************TEST_002_Login_DDT************
+2023-04-02 15:45:27,386:INFO:*****Verifying Login using DDT*****
+2023-04-02 15:46:31,337:INFO:*****Passed*****
+2023-04-02 15:47:12,473:INFO:*****Passed*****
+2023-04-02 15:51:19,821:INFO:************TEST_002_Login_DDT************
+2023-04-02 15:51:19,822:INFO:*****Verifying Login using DDT*****
+2023-04-02 15:51:27,265:INFO:*****Passed*****
+2023-04-02 15:51:33,341:INFO:*****Passed*****
+2023-04-02 15:58:52,228:INFO:************TEST_002_Login_DDT************
+2023-04-02 15:58:52,228:INFO:*****Verifying Login using DDT*****
+2023-04-02 15:58:59,682:INFO:*****Passed*****
+2023-04-02 15:59:05,600:INFO:*****Passed*****
+2023-04-02 19:28:59,655:INFO:************TEST_002_Login_DDT************
+2023-04-02 19:28:59,656:INFO:*****Verifying Login using DDT*****
+2023-04-02 19:29:08,176:INFO:*****Passed*****
+2023-04-02 19:29:14,778:INFO:*****Passed*****
+2023-04-02 19:30:09,703:INFO:****Started Login Test****
+2023-04-02 19:30:09,899:INFO:*************** Test_001_Login *****************
+2023-04-02 19:30:09,899:INFO:****Started Home page title test ****
+2023-04-02 19:30:09,900:INFO:****Opening URL****
+2023-04-02 19:30:13,740:INFO:**** Home page title test passed ****
+2023-04-02 19:30:27,406:INFO:*************** Test_001_Login *****************
+2023-04-02 19:30:27,406:INFO:****Started Home page title test ****
+2023-04-02 19:30:27,406:INFO:****Opening URL****
+2023-04-02 19:30:28,433:INFO:****Started Login Test****
+2023-04-02 19:30:31,037:INFO:**** Home page title test passed ****
+2023-04-02 19:31:04,794:INFO:*************** Test_001_Login *****************
+2023-04-02 19:31:04,794:INFO:****Started Home page title test ****
+2023-04-02 19:31:04,794:INFO:****Opening URL****
+2023-04-02 19:31:05,082:INFO:****Started Login Test****
+2023-04-02 19:31:07,299:INFO:**** Home page title test passed ****
+2023-04-02 19:31:59,344:INFO:*************** Test_001_Login *****************
+2023-04-02 19:31:59,345:INFO:****Started Home page title test ****
+2023-04-02 19:31:59,345:INFO:****Opening URL****
+2023-04-02 19:32:00,264:INFO:****Started Login Test****
+2023-04-02 19:32:02,127:INFO:**** Home page title test passed ****
+2023-04-02 19:32:38,594:INFO:****Started Login Test****
+2023-04-02 19:32:39,447:INFO:*************** Test_001_Login *****************
+2023-04-02 19:32:39,447:INFO:****Started Home page title test ****
+2023-04-02 19:32:39,447:INFO:****Opening URL****
+2023-04-02 19:32:41,986:INFO:**** Home page title test passed ****
+2023-04-02 19:37:30,431:INFO:**********************Test_001_login****************
+2023-04-02 19:37:30,432:INFO:**********************test_homepageTitle****************
+2023-04-02 19:37:30,481:INFO:**********************verify test login****************
+2023-04-02 19:37:34,562:INFO:**********************test_homepageTitle PASS****************
+2023-04-02 19:37:40,475:INFO:**********************login PAge PASS****************
+2023-04-02 19:50:59,089:INFO:**********************Test_001_login****************
+2023-04-02 19:50:59,089:INFO:**********************test_homepageTitle****************
+2023-04-02 19:50:59,169:INFO:**********************verify test login****************
+2023-04-02 19:51:02,585:INFO:**********************test_homepageTitle PASS****************
+2023-04-02 19:51:06,893:INFO:**********************login PAge PASS****************
+2023-04-02 19:52:54,416:INFO:**********************Test_001_login****************
+2023-04-02 19:52:54,416:INFO:**********************test_homepageTitle****************
+2023-04-02 19:52:57,730:INFO:**********************test_homepageTitle PASS****************
+2023-04-02 19:52:59,263:INFO:**********************verify test login****************
+2023-04-02 19:53:07,294:INFO:**********************login PAge PASS****************
+2023-04-02 19:53:58,151:INFO:**********************Test_001_login****************
+2023-04-02 19:53:58,152:INFO:**********************test_homepageTitle****************
+2023-04-02 19:54:00,923:INFO:**********************test_homepageTitle PASS****************
+2023-04-02 19:54:02,482:INFO:**********************verify test login****************
+2023-04-02 19:54:08,326:INFO:**********************login PAge PASS****************
+2023-04-02 19:57:26,599:INFO:**********************verify test login****************
+2023-04-02 19:57:26,633:INFO:**********************Test_001_login****************
+2023-04-02 19:57:26,633:INFO:**********************test_homepageTitle****************
+2023-04-02 19:57:30,219:INFO:**********************test_homepageTitle PASS****************
+2023-04-02 19:57:36,438:INFO:**********************login PAge PASS****************
+2023-04-02 19:58:01,003:INFO:**********************Test_001_login****************
+2023-04-02 19:58:01,003:INFO:**********************test_homepageTitle****************
+2023-04-02 19:58:02,855:INFO:**********************verify test login****************
+2023-04-02 19:58:04,483:INFO:**********************test_homepageTitle PASS****************
+2023-04-02 19:58:08,711:INFO:**********************login PAge PASS****************
+2023-04-02 19:58:53,631:INFO:**********************Test_001_login****************
+2023-04-02 19:58:53,632:INFO:**********************test_homepageTitle****************
+2023-04-02 19:58:54,213:INFO:**********************verify test login****************
+2023-04-02 19:58:56,385:INFO:**********************test_homepageTitle PASS****************
+2023-04-02 19:58:59,932:INFO:**********************login PAge PASS****************
+2023-04-02 19:59:19,382:INFO:**********************Test_001_login****************
+2023-04-02 19:59:19,382:INFO:**********************test_homepageTitle****************
+2023-04-02 19:59:19,396:INFO:**********************verify test login****************
+2023-04-02 19:59:21,418:INFO:**********************test_homepageTitle PASS****************
+2023-04-02 19:59:23,891:INFO:**********************login PAge PASS****************
+2023-04-02 20:00:08,049:INFO:**********************verify test login****************
+2023-04-02 20:00:08,099:INFO:**********************Test_001_login****************
+2023-04-02 20:00:08,100:INFO:**********************test_homepageTitle****************
+2023-04-02 20:00:10,631:INFO:**********************test_homepageTitle PASS****************
+2023-04-02 20:00:16,986:INFO:**********************login PAge PASS****************
+2023-04-02 20:00:34,167:INFO:************TEST_002_Login_DDT************
+2023-04-02 20:00:34,168:INFO:*****Verifying Login using DDT*****
+2023-04-02 20:00:40,695:INFO:*****Passed*****
+2023-04-02 20:00:47,197:INFO:*****Passed*****
+2023-04-02 20:05:25,684:INFO:************TEST_002_Login_DDT************
+2023-04-02 20:05:25,685:INFO:*****Verifying Login using DDT*****
+2023-04-02 20:05:32,906:INFO:*****Passed*****
+2023-04-02 20:05:39,329:INFO:*****Passed*****
+2023-04-03 16:12:53,123:INFO:*********** Test_003_AddCustomer ***********
+2023-04-03 16:12:55,621:INFO:******* Trying to Login *******
+2023-04-03 16:12:58,555:INFO:******* Login Successful *******
+2023-04-03 16:12:58,555:INFO:******* Starting Add Customer Test *******
+2023-04-03 16:13:52,925:INFO:*********** Test_003_AddCustomer ***********
+2023-04-03 16:13:56,003:INFO:******* Trying to Login *******
+2023-04-03 16:13:58,659:INFO:******* Login Successful *******
+2023-04-03 16:13:58,659:INFO:******* Starting Add Customer Test *******
+2023-04-03 16:22:30,896:INFO:*********** Test_003_AddCustomer ***********
+2023-04-03 16:22:33,229:INFO:******* Trying to Login *******
+2023-04-03 16:22:35,969:INFO:******* Login Successful *******
+2023-04-03 16:22:35,970:INFO:******* Starting Add Customer Test *******
+2023-04-03 16:23:59,084:INFO:*********** Test_003_AddCustomer ***********
+2023-04-03 16:24:01,315:INFO:******* Trying to Login *******
+2023-04-03 16:24:04,717:INFO:******* Login Successful *******
+2023-04-03 16:24:04,717:INFO:******* Starting Add Customer Test *******
+2023-04-03 16:25:12,812:INFO:*********** Test_003_AddCustomer ***********
+2023-04-03 16:25:23,868:INFO:******* Trying to Login *******
+2023-04-03 16:25:26,853:INFO:******* Login Successful *******
+2023-04-03 16:25:26,853:INFO:******* Starting Add Customer Test *******
+2023-04-03 16:28:50,114:INFO:*********** Test_003_AddCustomer ***********
+2023-04-03 16:28:51,666:INFO:******* Trying to Login *******
+2023-04-03 16:28:54,380:INFO:******* Login Successful *******
+2023-04-03 16:28:54,380:INFO:******* Starting Add Customer Test *******
+2023-04-03 16:30:15,084:INFO:*********** Test_003_AddCustomer ***********
+2023-04-03 16:30:18,626:INFO:******* Trying to Login *******
+2023-04-03 16:30:22,752:INFO:******* Login Successful *******
+2023-04-03 16:30:22,752:INFO:******* Starting Add Customer Test *******
+2023-04-03 16:32:33,527:INFO:*********** Test_003_AddCustomer ***********
+2023-04-03 16:32:35,101:INFO:******* Trying to Login *******
+2023-04-03 16:32:37,265:INFO:******* Login Successful *******
+2023-04-03 16:32:37,266:INFO:******* Starting Add Customer Test *******
+2023-04-03 16:34:47,654:INFO:*********** Test_003_AddCustomer ***********
+2023-04-03 16:34:50,676:INFO:******* Trying to Login *******
+2023-04-03 16:34:53,548:INFO:******* Login Successful *******
+2023-04-03 16:34:53,549:INFO:******* Starting Add Customer Test *******
+2023-04-03 16:36:40,532:INFO:*********** Test_003_AddCustomer ***********
+2023-04-03 16:36:42,623:INFO:******* Trying to Login *******
+2023-04-03 16:36:45,435:INFO:******* Login Successful *******
+2023-04-03 16:36:45,435:INFO:******* Starting Add Customer Test *******
+2023-04-03 16:36:54,563:INFO:******* Providing Customer info *******
+2023-04-03 16:39:15,018:INFO:*********** Test_003_AddCustomer ***********
+2023-04-03 16:39:18,489:INFO:******* Trying to Login *******
+2023-04-03 16:39:21,957:INFO:******* Login Successful *******
+2023-04-03 16:39:21,957:INFO:******* Starting Add Customer Test *******
+2023-04-03 16:39:25,278:INFO:******* Providing Customer info *******
+2023-04-03 16:41:38,276:INFO:*********** Test_003_AddCustomer ***********
+2023-04-03 16:41:40,779:INFO:******* Trying to Login *******
+2023-04-03 16:41:44,852:INFO:******* Login Successful *******
+2023-04-03 16:41:44,853:INFO:******* Starting Add Customer Test *******
+2023-04-03 16:41:48,686:INFO:******* Providing Customer info *******
+2023-04-03 16:44:48,485:INFO:*********** Test_003_AddCustomer ***********
+2023-04-03 16:44:50,721:INFO:******* Trying to Login *******
+2023-04-03 16:44:54,271:INFO:******* Login Successful *******
+2023-04-03 16:44:54,272:INFO:******* Starting Add Customer Test *******
+2023-04-03 16:44:57,553:INFO:******* Providing Customer info *******
+2023-04-03 16:45:08,733:INFO:******* Saving Customer info *******
+2023-04-03 16:45:08,733:INFO:******* Add Customer Validation started *******
+2023-04-03 16:49:34,704:INFO:*********** Test_003_AddCustomer ***********
+2023-04-03 16:49:38,540:INFO:******* Trying to Login *******
+2023-04-03 16:49:41,465:INFO:******* Login Successful *******
+2023-04-03 16:49:41,466:INFO:******* Starting Add Customer Test *******
+2023-04-03 16:49:44,648:INFO:******* Providing Customer info *******
+2023-04-03 16:49:55,815:INFO:******* Saving Customer info *******
+2023-04-03 16:49:55,816:INFO:******* Add Customer Validation started *******
+2023-04-03 16:49:55,991:INFO:******* Add Customer Test Passed *******
+2023-04-03 16:49:56,095:INFO:******* Ending Test_003_AddCustomer Test *******
+2023-04-04 11:29:13,439:INFO:*********** Test_004_SearchCustomerByEmail ***********
+2023-04-04 11:29:17,001:INFO:******* Trying to Login *******
+2023-04-04 11:29:20,264:INFO:******* Login Successful *******
+2023-04-04 11:29:20,264:INFO:******* Starting Search Customer By Email *******
+2023-04-04 11:29:25,363:INFO:******* Searching Customer By Email *******
+2023-04-04 11:32:39,785:INFO:*********** Test_004_SearchCustomerByEmail ***********
+2023-04-04 11:34:02,900:INFO:*********** Test_004_SearchCustomerByEmail ***********
+2023-04-04 11:34:06,481:INFO:******* Trying to Login *******
+2023-04-04 11:34:09,867:INFO:******* Login Successful *******
+2023-04-04 11:34:09,868:INFO:******* Starting Search Customer By Email *******
+2023-04-04 11:34:14,990:INFO:******* Searching Customer By Email *******
+2023-04-04 11:36:00,856:INFO:*********** Test_004_SearchCustomerByEmail ***********
+2023-04-04 11:36:03,034:INFO:******* Trying to Login *******
+2023-04-04 11:36:05,736:INFO:******* Login Successful *******
+2023-04-04 11:36:05,737:INFO:******* Starting Search Customer By Email *******
+2023-04-04 11:36:10,939:INFO:******* Searching Customer By Email *******
+2023-04-04 13:00:41,728:INFO:*********** Test_004_SearchCustomerByEmail ***********
+2023-04-04 13:00:44,892:INFO:******* Trying to Login *******
+2023-04-04 13:00:49,204:INFO:******* Login Successful *******
+2023-04-04 13:00:49,205:INFO:******* Starting Search Customer By Email *******
+2023-04-04 13:00:54,538:INFO:******* Searching Customer By Email *******
+2023-04-04 13:02:03,644:INFO:*********** Test_004_SearchCustomerByEmail ***********
+2023-04-04 13:02:05,211:INFO:******* Trying to Login *******
+2023-04-04 13:02:08,388:INFO:******* Login Successful *******
+2023-04-04 13:02:08,389:INFO:******* Starting Search Customer By Email *******
+2023-04-04 13:02:13,664:INFO:******* Searching Customer By Email *******
+2023-04-04 13:02:35,283:INFO:*********** Test_004_SearchCustomerByEmail ***********
+2023-04-04 13:02:37,694:INFO:******* Trying to Login *******
+2023-04-04 13:02:41,348:INFO:******* Login Successful *******
+2023-04-04 13:02:41,348:INFO:******* Starting Search Customer By Email *******
+2023-04-04 13:02:46,675:INFO:******* Searching Customer By Email *******
+2023-04-04 13:03:17,244:INFO:*********** Test_004_SearchCustomerByEmail ***********
+2023-04-04 13:03:20,544:INFO:******* Trying to Login *******
+2023-04-04 13:03:22,873:INFO:******* Login Successful *******
+2023-04-04 13:03:22,874:INFO:******* Starting Search Customer By Email *******
+2023-04-04 13:03:28,173:INFO:******* Searching Customer By Email *******
+2023-04-04 13:03:31,438:INFO:Customer found with given email
+2023-04-04 13:03:31,438:INFO:******* Ending Test_004_SearchCustomerByEmail *******
+2023-04-04 13:04:45,145:INFO:*********** Test_005_SearchCustomerByName ***********
+2023-04-04 13:04:47,585:INFO:******* Trying to Login *******
+2023-04-04 13:04:51,559:INFO:******* Login Successful *******
+2023-04-04 13:04:51,559:INFO:******* Starting Search Customer By Name *******
+2023-04-04 13:04:57,949:INFO:******* Searching Customer By Name *******
+2023-04-04 13:05:34,482:INFO:*********** Test_005_SearchCustomerByName ***********
+2023-04-04 13:05:37,566:INFO:******* Trying to Login *******
+2023-04-04 13:05:39,938:INFO:******* Login Successful *******
+2023-04-04 13:05:39,939:INFO:******* Starting Search Customer By Name *******
+2023-04-04 13:05:46,155:INFO:******* Searching Customer By Name *******
+2023-04-04 13:05:53,906:INFO:*********** Test_005_SearchCustomerByName ***********
+2023-04-04 13:05:56,479:INFO:******* Trying to Login *******
+2023-04-04 13:05:59,762:INFO:******* Login Successful *******
+2023-04-04 13:05:59,763:INFO:******* Starting Search Customer By Name *******
+2023-04-04 13:06:06,027:INFO:******* Searching Customer By Name *******
+2023-04-04 13:07:10,137:INFO:*********** Test_005_SearchCustomerByName ***********
+2023-04-04 13:07:11,749:INFO:******* Trying to Login *******
+2023-04-04 13:07:13,816:INFO:******* Login Successful *******
+2023-04-04 13:07:13,816:INFO:******* Starting Search Customer By Name *******
+2023-04-04 13:07:20,144:INFO:******* Searching Customer By Name *******
+2023-04-04 13:08:15,725:INFO:*********** Test_005_SearchCustomerByName ***********
+2023-04-04 13:08:18,012:INFO:******* Trying to Login *******
+2023-04-04 13:08:21,774:INFO:******* Login Successful *******
+2023-04-04 13:08:21,774:INFO:******* Starting Search Customer By Name *******
+2023-04-04 13:08:26,103:INFO:******* Searching Customer By Name *******
+2023-04-04 13:08:30,858:INFO:*********** Test_005_SearchCustomerByName ***********
+2023-04-04 13:08:33,122:INFO:******* Trying to Login *******
+2023-04-04 13:08:36,658:INFO:******* Login Successful *******
+2023-04-04 13:08:36,658:INFO:******* Starting Search Customer By Name *******
+2023-04-04 13:08:40,947:INFO:******* Searching Customer By Name *******
+2023-04-04 13:12:34,856:INFO:*********** Test_005_SearchCustomerByName ***********
+2023-04-04 13:12:39,336:INFO:******* Trying to Login *******
+2023-04-04 13:12:43,104:INFO:******* Login Successful *******
+2023-04-04 13:12:43,104:INFO:******* Starting Search Customer By Name *******
+2023-04-04 13:12:47,458:INFO:******* CLicking on Search Dropdown *******
+2023-04-04 13:15:08,914:INFO:*********** Test_005_SearchCustomerByName ***********
+2023-04-04 13:15:12,671:INFO:******* Trying to Login *******
+2023-04-04 13:15:16,396:INFO:******* Login Successful *******
+2023-04-04 13:15:16,396:INFO:******* Starting Search Customer By Name *******
+2023-04-04 13:15:20,804:INFO:******* CLicking on Search Dropdown *******
+2023-04-04 13:16:46,960:INFO:*********** Test_005_SearchCustomerByName ***********
+2023-04-04 13:16:50,657:INFO:******* Trying to Login *******
+2023-04-04 13:16:56,411:INFO:******* Login Successful *******
+2023-04-04 13:16:56,411:INFO:******* Starting Search Customer By Name *******
+2023-04-04 13:17:00,906:INFO:******* CLicking on Search Dropdown *******
+2023-04-04 13:20:39,074:INFO:*********** Test_005_SearchCustomerByName ***********
+2023-04-04 13:20:42,757:INFO:******* Trying to Login *******
+2023-04-04 13:20:46,330:INFO:******* Login Successful *******
+2023-04-04 13:20:46,331:INFO:******* Starting Search Customer By Name *******
+2023-04-04 13:20:50,532:INFO:******* CLicking on Search Dropdown *******
+2023-04-04 13:20:52,611:INFO:******* Searching Customer By Name *******
+2023-04-04 13:20:55,911:INFO:******* Customer found with the given Name  *******
+2023-04-04 13:20:55,911:INFO:******* Ending Test_005_SearchCustomerByName *******
